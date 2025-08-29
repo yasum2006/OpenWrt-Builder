@@ -8,6 +8,10 @@ PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES=luci-i18n-minidlna-zh-cn"
+luci-i18n-openvpn-zh-cn
+luci-i18n-udpxy-zh-cn
+luci-i18n-p910nd-zh-cn
+luci-i18n-ddns-zh-cn
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
